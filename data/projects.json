@@ -1,0 +1,21 @@
+[
+    {
+        "name": "STEMQuest",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet odio ut turpis vulputate molestie vitae at sapien. Vivamus.",
+        "image": "/projects/stemquest.png",
+        "link": "https://stemquest.theananta.in/stemquest",
+        "tags": [
+            "Startup",
+            "Design"
+        ]
+    },
+    {
+        "name": "Shramasa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet odio ut turpis vulputate molestie vitae at sapien. Vivamus.",
+        "image": "/projects/shramasa.png",
+        "tags": [
+            "Design",
+            "Mobile"
+        ]
+    }
+]

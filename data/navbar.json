@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Home",
+    "path": "/",
+    "visible": true
+  },
+  {
+    "name": "Skills",
+    "path": "/skills",
+    "visible": true
+  },
+  {
+    "name": "Projects",
+    "path": "/projects",
+    "visible": true
+  },
+  {
+    "name": "Resume",
+    "path": "/resume",
+    "visible": false
+  },
+  {
+    "name": "Blogs",
+    "path": "/blogs",
+    "visible": true
+  },
+  {
+    "name": "Achievements",
+    "path": "/achievements",
+    "visible": true
+  },
+  {
+    "name": "Contact",
+    "path": "/contact",
+    "visible": true
+  }
+]

@@ -1,0 +1,157 @@
+{
+  "communityName": "GDG Vizag",
+  "communityLocation": {
+    "country": "India",
+    "city": "Vizag"
+  },
+  "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-vizag/",
+    "website": "https://gdg.community.dev/gdg-vizag/",
+    "instagram": "https://gdg.community.dev/gdg-vizag/",
+    "linkedin": "https://www.linkedin.com/company/google-developers-vizag/",
+    "youtube": "https://gdg.community.dev/gdg-vizag/"
+  },
+  "eventInfo": {
+    "name": "DevFest Vizag 2024",
+    "date": "December 7-8, 2024",
+    "time": "10AM-7PM",
+    "venue": {
+      "address": "GITAM University",
+      "map_link": "https://maps.app.goo.gl/PihjEo9KMghn2Lx86"
+    },
+    "registeration": {
+      "link": "https://konfhub.com/devfest-vizag-2024",
+      "end_date": "2024-12-06",
+      "start_date": "2024-11-12"
+    },
+    "callForSpeakers": {
+      "link": "/call-for-speakers",
+      "end_date": "2024-11-23",
+      "start_date": "2024-11-05"
+    },
+    "description": {
+      "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
+      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+    },
+    "stats": [
+      {
+        "name": "Speakers",
+        "value": "30+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "1000+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Sessions",
+        "value": "20+",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "20+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+    ],
+    "benefits": [
+      {
+        "title": "learn tech from the experts",
+        "image": "https://www.gitam.edu/sites/default/files/banners/know-gitam_0.jpg",
+        "bgcolor": "rgba(195, 236, 246, 0.3)",
+        "color": "#174EA6",
+        "benefits": [
+          "Curated talks and workshops from the best of India.",
+          "Our speakers come with rich expertise in building solutions.",
+          "We have extended workshops on various topics relating to AI, Web, Cloud, Android and Flutter that take you from zero to one."
+        ]
+      },
+      {
+        "title": "be a freelancer",
+        "image": "https://images.businessnewsdaily.com/app/uploads/2022/04/04072326/freelancer_Prostock-Studio_getty.jpg",
+        "bgcolor": "rgba(248, 216, 216, 0.3)",
+        "color": "#B31412",
+        "benefits": [
+          "Explore the talks and workshops to understand where and when to make your next step.",
+          "Build a network of like minded people that can help you reach the next level.",
+          "Ask and get the best practices from the amazing line-up of speakers to reach the correct clients and companies."
+        ]
+      },
+      {
+        "title": "build a career in Tech",
+        "image": "https://heinzegers.com/wp-content/uploads/2017/08/Visiting-Google-1024x576.jpg",
+        "bgcolor": "rgba(255, 231, 165, 0.3)",
+        "color": "#B06000",
+        "benefits": [
+          "Network with like minded people and build connections that take your career to the next level.",
+          "Interact with the best people in the industry to understand how you can build a lasting career.",
+          "Connect with startups that are looking for talent and explore their solutions.",
+          "Attend curated career guidance sessions which provide you with insights that can help you land a job."
+        ]
+      },
+      {
+        "title": "build a startup",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/220304_GGstartups_interior_4350.width-1300.jpg",
+        "bgcolor": "rgba(204, 246, 197,0.3)",
+        "color": "#0D652D",
+        "benefits": [
+          "Find like minded and highly motivated people for building your founding team.",
+          "Meet existing startups.",
+          "Build connections and exchange solutions among startups and businesses.",
+          "Help your team level up and understand how they can use technology in the best possible way through engaging workshops.",
+          "Connect with speakers and tap into their expertise in understanding how to build effective solutions."
+        ]
+      }
+    ],
+    "whatToExpect": [
+      {
+        "title": "Technical content",
+        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+      },
+      {
+        "title": "Workshops & Codelabs",
+        "description": "Workshops and codelabs on the latest technologies to help you build your skills and knowledge."
+      },
+      {
+        "title": "Talent Hunt & Idea Sprint",
+        "description": "Gathering of the best minds to solve real world problems and showcase of local talent and startups."
+      }
+    ],
+    "pastDevFest": {
+      "summery": "Vizag DevFest 2023 brought the heat with an unforgettable day of innovation, energy, and community! Hosted by GDG Vizag, this festival drew passionate developers and trailblazing speakers for an immersive experience across tracks. From electrifying tech talks and hands-on workshops to lively panel discussions, the event celebrated the latest in AI, Flutter, Cloud, and more. Special highlights include inspiring workshops like #IamRemarkable, and soulful music by GITAM's Kalakruthi team. DevFest 2023 wasn’t just a conference; it was a powerhouse of inspiration, innovation, and unforgettable memories!",
+      "images": [
+        "devfest19.png",
+        "devfest22.JPG",
+        "image-3.png"
+      ],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "13+"
+        },
+        {
+          "name": "Participants",
+          "value": "500+"
+        },
+        {
+          "name": "Sessions",
+          "value": "15+"
+        },
+        {
+          "name": "Day",
+          "value": "1"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://devfest.vizag.dev"
+  }
+}

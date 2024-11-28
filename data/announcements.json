@@ -1,0 +1,19 @@
+[
+    {
+        "text": "Checkout my open source projects.",
+        "action": {
+            "link": "https://opensource.manasmalla.dev",
+            "text": "Explore"
+        }
+    },
+    {
+        "text": "Follow me on Instagram.",
+        "action": {
+            "link": "https://instagram.com/manas_malla/",
+            "text": "Follow Now"
+        }
+    },
+    {
+        "text": "Happy Coding. 😊"
+    }
+]
