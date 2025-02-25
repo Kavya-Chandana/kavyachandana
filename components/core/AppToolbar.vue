@@ -4,7 +4,7 @@
       <v-app-bar-nav-icon class="d-md-none d-lg-none d-sm-flex d-flex" @click="drawerAction"></v-app-bar-nav-icon>
       <NuxtLink to="/" class="px-2" style="text-decoration: none; color: black">
         <div class="d-flex">
-          <v-img width="140" alt="logo" src="/assets/img/manas-logo.png" class="mr-2"></v-img>
+          <!-- <v-img width="140" alt="logo" src="/assets/img/manas-logo.png" class="mr-2"></v-img> -->
           <!-- <v-chip style="display: inline; background-color: white" variant="outlined" color="black" size="small"
             class="align-center pt-1">IN</v-chip> -->
         </div>

@@ -11,3 +11,35 @@
 :root{
     font-family: "google-sans", Helvetica, Arial, Sans-Serif;
 }
+
+.blog-container{
+  margin: 64px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.blog-container img{
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 1.8;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.blog-container .hero{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.blog-container .hero .subtitle{
+  font-weight: 600;
+  scale: 1.2;
+  margin-bottom: 12px;
+}
+.blog-container .hero p:last-of-type{
+  opacity: 0.5;
+}
+
+.blog-container h2{
+  margin: 12px 0px;
+}
